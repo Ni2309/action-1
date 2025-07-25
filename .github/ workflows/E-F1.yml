@@ -7,7 +7,7 @@ jobs:
       runs-on: ubuntu-latest
         steps:
           - name: Welcome Message
-            run: echo"My gihub Action Job"
+            run: echo "My gihub Action Job"
 
           - name: List files
             run: ls 
